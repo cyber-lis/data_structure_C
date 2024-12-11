@@ -1,2 +1,2 @@
 # data_structure_C
-my data structure implementation by C
+My data structure implementation by C
